@@ -2,10 +2,16 @@
 ## Hipz
 * AWS - ECS, Fargate, DynamoDB, RDS, Neptune, Lambda
 * Python and Golang
+  
 ## Benj
 * NestJS
-* Flutter - mobile, Angular
+* Flutter - mobile, Angular, tailwind
 * Python for ML
+
+## Ponso
+* Python
+* NextJS, tailwind, angular
+* AWS CI/CD
 
 # Project Ideas
 * Application that can accept videos, and learn from it (body strokes, hitting patterns, body movements, habits)
